@@ -13,7 +13,7 @@
   "module_directory":   "Payment",
   "apps_name":          "Moneris",
   "type_module":      "Fixe",
-  "dependance":       "",
+  "dependance":       "https://www.clicshopping.org/forum/files/file/36-apps-payment-moneris/",
   "description":        "This apps allow you to add Moneris hosting Payment in your website.",
  "image":            "ModuleInfosJson/moneris.png",
 
