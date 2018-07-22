@@ -14,9 +14,10 @@ Install :
 http://monsite/myAdmin/index.php?A&Payment\Moneris
 
 Activate the module in Payment
+Copy the apps_payment_moneris.json into ClicShopping/Work/Cache/Github (manual installation)
 
 See Marketplace for all informations
-link to marketplace : https://www.clicshopping.org/forum/files/file/36-apps-payment-moneris/
+link to marketplace : https://www.clicshopping.org/forum/files/file/34-apps-payment-moneris/
 
 ![moneris](https://github.com/ClicShoppingOfficialModulesV3/apps_payment_moneris/blob/master/ModuleInfosJson/moneris.png)
 

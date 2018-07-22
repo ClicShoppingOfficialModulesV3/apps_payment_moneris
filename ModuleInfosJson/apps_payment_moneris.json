@@ -4,7 +4,7 @@
   "vendor":			"ClicShopping",
   "is_free":   "no",
   "is_core":   "no",
-  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/36-apps-payment-moneris/",
+  "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/34-apps-payment-moneris/",
   "version":			1.0,
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
@@ -13,7 +13,7 @@
   "module_directory":   "Payment",
   "apps_name":          "Moneris",
   "type_module":      "Fixe",
-  "dependance":       "https://www.clicshopping.org/forum/files/file/36-apps-payment-moneris/",
+  "dependance":       "",
   "description":        "This apps allow you to add Moneris hosting Payment in your website.",
  "image":            "ModuleInfosJson/moneris.png",
 
