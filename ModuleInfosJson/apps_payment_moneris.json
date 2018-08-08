@@ -1,7 +1,7 @@
 {
   "title":			"apps_payment_moneris",
   "type":       "apps",
-  "vendor":			"ClicShopping",
+  "vendor":			"Payment",
   "is_free":   "no",
   "is_core":   "no",
   "website_link_to_sell" : "https://www.clicshopping.org/forum/files/file/34-apps-payment-moneris/",
