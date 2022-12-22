@@ -1,0 +1,2 @@
+cfg_moneris_store_id_title = Insert your store id
+cfg_moneris_store_id_desc = The store id is made by Moneris

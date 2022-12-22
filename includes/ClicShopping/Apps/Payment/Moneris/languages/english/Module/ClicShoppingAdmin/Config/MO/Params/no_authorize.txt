@@ -1,0 +1,4 @@
+cfg_moneris_no_authorize_title = Do you want to display the payment mmonerisule for B2C customer ?
+cfg_moneris_no_authorize_desc = Display the payment mmonerisule for B2C customer ?
+cfg_moneris_no_authorize_true = True
+cfg_moneris_no_authorize_false = False

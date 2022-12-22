@@ -1,0 +1,2 @@
+cfg_moneris_api_token_title = Moneris Api Token
+cfg_moneris_api_token_desc = The Api Token is made by Moneris

@@ -1,0 +1,4 @@
+cfg_moneris_zone_title = Payment Zone
+cfg_moneris_zone_desc = Enable this payment mmonerisule globally or limit it to customers shipping to the selected zone only.
+
+cfg_moneris_zone_global = -- Global --

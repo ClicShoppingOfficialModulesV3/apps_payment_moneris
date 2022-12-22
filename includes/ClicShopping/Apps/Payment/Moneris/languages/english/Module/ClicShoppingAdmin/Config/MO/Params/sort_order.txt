@@ -1,0 +1,2 @@
+cfg_moneris_sort_order_title = Sort Order
+cfg_moneris_sort_order_description = The sort order location of the mmonerisule shown in the available methods listing (lowest is displayed first).

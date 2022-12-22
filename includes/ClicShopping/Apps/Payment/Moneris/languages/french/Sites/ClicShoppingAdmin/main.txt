@@ -1,0 +1,38 @@
+heading_title = Moneris Hosted
+module_moneris_title = Configuration
+
+text_moneris = Moneris Hosted
+text_configure =  Configurer cette App
+
+text_intro = Cette app vous permet d'inclure un module de paiement<br />
+<br />
+Account developper : https://developer.moneris.com<br />
+Test server : https://esqa.moneris.com/mpg<br />
+More information : https://developer.moneris.com/More/Testing/Testing%20a%20Solution<br /><br />
+
+Response Method : Sent to your server as a POST <br />
+
+approved_url = URL commande approuvée: {{approve_url}} <br />
+declined_url = URL: commande déclinée {{decline_url}}
+
+
+module_moneris_introduction = Le processus d'installation vous permettra de créer la base de données et le menu pour y accéder
+
+button_sort_order = Ordre de tri
+button_install_title = Installer
+button_configure = Configurer
+button_save = Sauver
+button_dialog_uninstall =  Désintaller
+button_uninstall =  Désintaller
+button_cancel = Annuler
+button_delete = Supprimer
+button_back = Retour
+
+dialog_uninstall_title = Désintaller
+dialog_uninstall_body = Souhaitez vous intaller cette app ?
+dialog_uninstall_title = Souhaitez vous désinstaller cette app ?
+dialog_uninstall_body =  Etes vous sur de désinstaller ce module ?
+
+alert_module_install_success = Le module a été installé avec succès.
+alert_module_uninstall_success = Le module a été désinstallé avec succès.
+alert_cfg_saved_success = les paramètres ont été sauvegardé

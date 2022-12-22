@@ -1,0 +1,6 @@
+cfg_moneris_status_title = Status
+cfg_moneris_status_description = Set True to enable or not the module
+
+cfg_moneris_status_true = True
+cfg_moneris_status_false = False
+

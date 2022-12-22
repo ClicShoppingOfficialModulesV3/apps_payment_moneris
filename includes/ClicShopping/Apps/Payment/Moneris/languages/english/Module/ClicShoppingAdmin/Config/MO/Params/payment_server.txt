@@ -1,0 +1,4 @@
+cfg_moneris_payment_server_title = Type de server
+cfg_moneris_payment_server_desc = Please choose your method
+cfg_moneris_payment_server_production = Production
+cfg_moneris_payment_server_test = Test

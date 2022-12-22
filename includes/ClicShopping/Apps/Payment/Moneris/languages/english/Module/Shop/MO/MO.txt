@@ -1,0 +1,5 @@
+module_moneris_title = Payment by Moneris
+module_moneris_short_title = Payment by Moneris
+module_moneris_public_title = Payment by Moneris
+
+module_moneris_text = Make Payable To:&nbsp; {{pay_to}} <br /><br />Send To:<br />{{store_name_addres}}<br /><br />Your order will not ship until we receive payment

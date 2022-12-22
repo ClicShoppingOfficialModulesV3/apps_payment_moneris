@@ -1,0 +1,5 @@
+module_moneris_title = Paiement par Moneris
+module_moneris_short_title = Paiement par Moneris
+module_moneris_public_title = Paiement par Moneris
+
+module_moneris_text = A payer :&nbsp; {{pay_to}} <br /><br />Envoyer à <br />{{store_name_addres}}<br /><br />Votre commande vous sera envoyé à réception de votre paiement

@@ -1,0 +1,6 @@
+cfg_moneris_status_title = Statut d'affichage du module
+cfg_moneris_status_description = Sélectionner True pour afficher le module
+
+cfg_moneris_status_true = True
+cfg_moneris_status_false = False
+
